@@ -1,0 +1,42 @@
+body{
+    background-color:#007a99;
+    font-family: Arial, Helvetica, serif;
+}
+h1{
+    padding-top:50px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+#loginheader{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: left;
+    padding-left:50px;
+    padding-bottom:20px;
+}
+
+form{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#signinform{
+	background-color: #ebebe0;
+	border: 1px solid white;
+    border-radius: 10px;
+    font-size:20px;
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left: 10px;
+    }
+#password1{
+    padding-left: 50px;
+    font-size: 70%;
+}
+
+#register1{
+    padding-right: 10px;
+}
+
+
+
+
+  
