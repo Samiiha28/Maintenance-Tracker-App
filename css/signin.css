@@ -2,22 +2,31 @@ body{
     background-color:#007a99;
     font-family: Arial, Helvetica, serif;
 }
-h1{
-    padding-top:50px;
+h5{
+    padding-top:20px;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
+    
 }
 #loginheader{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-align: left;
+    text-align: center;
     padding-left:50px;
-    padding-bottom:20px;
+}
+.imgcontainer{
+    width:50%;
+    height:30vh;
+    background-image:url(images/logo.jpg);
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size:cover;
+    text-align: center;
 }
 
 form{
     margin-left: 50px;
     margin-right: 50px;
-}
+    }
+
 #signinform{
 	background-color: #ebebe0;
 	border: 1px solid white;
@@ -30,7 +39,7 @@ form{
 #password1{
     padding-left: 50px;
     font-size: 70%;
-}
+    }
 
 #register1{
     padding-right: 10px;
