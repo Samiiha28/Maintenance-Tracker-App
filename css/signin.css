@@ -42,7 +42,30 @@ form{
     }
 
 #register1{
-    padding-right: 10px;
+    padding-right: 10px;    
+}
+
+#btn2{
+    background-color: red;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    width: 100px;
+    height:30px;
+}
+
+.input-box{
+    font-size:18;
+    width:300px;
+    height:30px;
+}
+
+#btn1{
+    width: 90px;
+    height:30px;
+    background-color: limegreen;
+    border-radius:10px;
+    cursor: pointer;
 }
 
 

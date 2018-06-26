@@ -31,10 +31,43 @@ h1{
     color:white;
 }
 .imgcontainer{
-    width:70%;
-    height:2vh;
+    width:10%;
+    height:1vh;
     background-image:url(images/logo.jpg);
     background-repeat:no-repeat;
     background-position:center;
     background-size:cover;
+    text-align: center;
+}
+#first{
+    font-size:18;
+    width:300px;
+    height:30px;
+}
+#last{
+    font-size:18;
+    width:300px;
+    height:30px;
+    }
+ #user{
+    font-size:18;
+    width:300px;
+    height:30px;
+    }
+#email{
+    font-size:18;
+    width:300px;
+    height:30px;
+    }
+#pass{
+    font-size:18;
+    width:300px;
+    height:30px;
+    }
+#btn{
+    width: 90px;
+    height:30px;
+    background-color: limegreen;
+    border-radius:10px;
+
 }
